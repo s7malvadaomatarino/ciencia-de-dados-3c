@@ -56,6 +56,11 @@ body {
     margin: 5rem;
   }
 
+  span {
+    font-weight: bold;
+    color: var(--secondary-color);
+   }
+   
   footer {
     display: flex;
     align-items: center;
